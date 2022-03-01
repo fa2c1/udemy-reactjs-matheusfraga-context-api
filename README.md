@@ -9,4 +9,4 @@ Seção 11: Context Api
 ### Conteudo por commit
 
 - Trabalhando sem Context Api
-- Trabalhando sem Context Api
+- Trabalhando com Context Api
